@@ -553,6 +553,8 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[YouTube](https://github.com/anaisbetts/mcp-youtube)** - Fetch YouTube subtitles
 - **[Yuga Planner](https://github.com/blackopsrepl/yuga-planner)** - AI Task schedule planning with LLamaIndex and Timefold: breaks down a task description and schedules it around an existing calendar
 
+- **[Levea AI Video Editor](https://github.com/brajendrak00068/agentic-ai-video-production)** - Autonomous AI video editor MCP server (`levea-mcp-server`) for natural-language video editing: viral clips, 280+ animated caption templates, 9:16 vertical reframe, silence removal, B-roll, motion graphics, multicam sync, and cloud MP4 export.
+
 ## Clients
 
 - **[MBro](https://github.com/sitbon/magg/blob/main/docs/mbro.md)** - A powerful interactive terminal **M**CP **Bro**wser client with tab completion and automatic documentation that allows you to work with multiple MCP servers, manage tools, and create complex workflows using AI assistants.
